@@ -5,6 +5,6 @@ if distance < 3:
 elif distance <= 15:
     mode = "bike"
 else:
-    mode = "car"
+    mode = "Car"
 
 print (mode)
