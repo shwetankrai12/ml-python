@@ -10,19 +10,19 @@ func()
 
 x = 99
 
-# def func2(y):
-#     z = x + y
-#     return z
+def func2(y):
+    z = x + y
+    return z
 
-# result = func2(1)
-# print(result)
+result = func2(1)
+print(result)
 
-# def func3():
-#     global x #avoid krna chaiye aisa
-#     x = 88
+def func3():
+    global x #avoid krna chaiye aisa
+    x = 88
 
-# func3()
-# print(x)
+func3()
+print(x)
 
 
 def f1():
